@@ -108,8 +108,6 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 
 ---
 
-### ✍️ Latest Blog Posts
-
 <!-- START BLOGS -->
 <!-- START BLOGS -->
 ## ✍️ Latest Blog Posts 
