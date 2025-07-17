@@ -110,20 +110,7 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 
 <!-- START BLOGS -->
 
-## ✍️ Latest Blog Posts 
-
-
-## Object-Oriented Programming
-
-- [Introduction to Object-Oriented Programming (OOP)](src/blogs/oops/01-introduction.md)
-- [Encapsulation and Abstraction](src/blogs/oops/02-encapsulation-and-abstraction.md)
-- [Inheritance in OOP: When to Use and When to Avoid](src/blogs/oops/03-inheritance.md)
-- [Polymorphism in Object-Oriented Programming](src/blogs/oops/04-polymorphism.md)
-- [Abstract Class vs Interface in OOPS (With Java Examples)](src/blogs/oops/05-abstractClass-and-interface.md)
-- [Class Diagrams](src/blogs/oops/06-class-diagrams.md)
-- [Class Relationships in Object-Oriented Programming](src/blogs/oops/07-class-relationships-in-oops.md)
-- [Multiplicity](src/blogs/oops/08-multiplicity.md)
-
+## ✍️ Latest Blog Posts
 
 ## SOLID Principles
 
@@ -187,6 +174,20 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 - [Common Concurrency Issues in Database Transactions](src/blogs/system-design/07-transactions/03-concurrency-issues.md)
 - [Serializability in Databases](src/blogs/system-design/07-transactions/04-serializability.md)
 - [Pessimistic vs Optimistic Concurrency Control](src/blogs/system-design/07-transactions/05-pessimistic-optimistic-cc.md)
+
+
+
+## Object-Oriented Programming
+
+- [Introduction to Object-Oriented Programming (OOP)](src/blogs/oops/01-introduction.md)
+- [Encapsulation and Abstraction](src/blogs/oops/02-encapsulation-and-abstraction.md)
+- [Inheritance in OOP: When to Use and When to Avoid](src/blogs/oops/03-inheritance.md)
+- [Polymorphism in Object-Oriented Programming](src/blogs/oops/04-polymorphism.md)
+- [Abstract Class vs Interface in OOPS (With Java Examples)](src/blogs/oops/05-abstractClass-and-interface.md)
+- [Class Diagrams](src/blogs/oops/06-class-diagrams.md)
+- [Class Relationships in Object-Oriented Programming](src/blogs/oops/07-class-relationships-in-oops.md)
+- [Multiplicity](src/blogs/oops/08-multiplicity.md)
+
 <!-- END BLOGS -->
 
 ---
