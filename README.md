@@ -61,13 +61,6 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat)
 
-#### 🧩 Architecture
-
-- 🧩 Microservices
-- 🌐 Distributed Systems
-- ⚡ Event-Driven Architecture
-- 🛠️ API Design
-
 #### 🛢️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -83,11 +76,6 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
-#### 🧠 Other Programming Skills
-  - 🧱 SOLID Principles
-  - 🧭 Design Patterns
-  - 📊 Data Structures & Algorithms (DSA)
-
 #### 🧪 Testing
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Protractor](https://img.shields.io/badge/Protractor-000000?style=flat)
@@ -95,6 +83,18 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 ![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=flat&logo=python&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+
+#### 🧩 Architecture
+
+- 🧩 Microservices
+- 🌐 Distributed Systems
+- ⚡ Event-Driven Architecture
+- 🛠️ API Design
+  
+#### 🧠 Other Programming Skills
+  - 🧱 SOLID Principles
+  - 🧭 Design Patterns
+  - 📊 Data Structures & Algorithms (DSA)
 
 ---
 
