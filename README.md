@@ -59,7 +59,10 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat)
 
 #### 🧩 Architecture
-- Microservices • Distributed Systems • Event-Driven Architecture • API Design
+- Microservices
+- Distributed Systems
+- Event-Driven Architecture
+- API Design
 
 #### 🛢️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
