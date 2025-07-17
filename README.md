@@ -14,9 +14,15 @@
 
 ### 🚀 About Me
 
-- 🎯 Passionate about building scalable, real-world systems with **Java, Spring Boot, Kafka, Docker, and React**
-- 🧠 Interested in **System Design, Distributed Systems**, and **Microservices Architecture**
-- ✍️ I write **in-depth technical blogs** at [avinashgu.xyz](https://avinashgu.xyz/)
+I am a Full Stack Developer with comprehensive experience in both frontend and backend technologies. My expertise spans across modern web frameworks, cloud services, database design, and system architecture.
+
+🔧 I specialize in creating complete digital solutions — from designing robust APIs and database schemas to crafting responsive user interfaces and deploying scalable applications.
+
+🚀 My approach combines clean code practices with performance optimization to deliver exceptional user experiences.
+
+🧠 I'm passionate about staying current with emerging technologies, contributing to open-source, writing technical blogs, and mentoring fellow developers.
+
+- ✍️ I write **in-depth technical blogs** at [avinashgu.xyz](https://avinashgu.xyz/blogs)
 - 🛠️ Constantly learning & simplifying complex concepts into real-world projects
 - 📫 Reach me at **avinashgurugubelli@gmail.com**
 
@@ -97,10 +103,8 @@
 ---
 
 ### ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-> Want this section to update automatically? Use [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+> [My Tech Blogs](https://github.com/Avinashgurugubelli/avi-tech-blogs)
 
 ---
 
