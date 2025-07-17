@@ -11,6 +11,10 @@
   <a href="https://avinashgu.xyz/blogs" target="_blank">
     <img alt="Tech Blogs" src="https://img.shields.io/badge/Tech%20Blogs-Browse-orange?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Avinashgurugubelli&label=Profile%20views&color=0e75b6&style=flat" alt="Avinashgurugubelli" />
+</p>
+
 </p>
 
 ---
