@@ -110,7 +110,9 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 
 ### ✍️ Latest Blog Posts
 
-> [My Tech Blogs](https://github.com/Avinashgurugubelli/avi-tech-blogs)
+<!-- START BLOGS -->
+
+<!-- END BLOGS -->
 
 ---
 
