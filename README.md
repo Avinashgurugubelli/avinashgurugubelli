@@ -35,6 +35,12 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 
 ---
 
+### 🏢 Organizations I've Worked With
+
+[![Citrix](https://img.shields.io/badge/Company-Citrix-blue?style=flat-square&logo=citrix&logoColor=white)](#)
+[![Philips](https://img.shields.io/badge/Company-Philips-blue?style=flat-square&logo=philips&logoColor=white)](#)
+[![Infosys](https://img.shields.io/badge/Company-Infosys-blue?style=flat-square&logo=infosys&logoColor=white)](#)
+
 ### 🧰 Tech Stack
 
 #### 🖥️ Frontend
