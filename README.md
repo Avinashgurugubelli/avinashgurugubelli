@@ -81,7 +81,9 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 #### 🧠 Other Programming Skills
-- **SOLID Principles** | **Design Patterns** | **DSA (Data Structures & Algorithms)**
+  - 🧱 SOLID Principles
+  - 🧭 Design Patterns
+  - 📊 Data Structures & Algorithms (DSA)
 
 #### 🧪 Testing
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
