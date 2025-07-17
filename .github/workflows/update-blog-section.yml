@@ -2,8 +2,8 @@ name: Sync Blog Section
 
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour (change if needed)
-  workflow_dispatch:      # manual trigger
+    - cron: '0 * * * *'  # every hour
+  workflow_dispatch:
   push:
     paths:
       - ".github/workflows/update-blog-section.yml"
@@ -37,7 +37,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
+          git remote set-url origin "https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}"
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Auto-sync blog section from avi-tech-blogs"
           git push
