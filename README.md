@@ -109,7 +109,6 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 ---
 
 <!-- START BLOGS -->
-<!-- START BLOGS -->
 ## ✍️ Latest Blog Posts 
 
 
@@ -267,7 +266,6 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 - [Common Concurrency Issues in Database Transactions](src/blogs/system-design/07-transactions/03-concurrency-issues.md)
 - [Serializability in Databases](src/blogs/system-design/07-transactions/04-serializability.md)
 - [Pessimistic vs Optimistic Concurrency Control](src/blogs/system-design/07-transactions/05-pessimistic-optimistic-cc.md)
-<!-- END BLOGS -->
 
 ---
 
