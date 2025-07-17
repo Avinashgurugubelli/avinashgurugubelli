@@ -2,14 +2,14 @@ name: Sync Blog Section
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # every hour
   workflow_dispatch:
   push:
     paths:
       - ".github/workflows/update-blog-section.yml"
 
 permissions:
-  contents: write
+  contents: write  # Required to push changes
 
 jobs:
   sync-blog-readme:
@@ -23,24 +23,24 @@ jobs:
         run: |
           curl -s https://raw.githubusercontent.com/Avinashgurugubelli/avi-tech-blogs/main/readme.md -o blog-readme.md
 
-      - name: Extract Blog Section
+      - name: Replace Blog Section in README
         run: |
-          echo "<!-- START BLOGS -->" > blog-section.md
-          cat blog-readme.md >> blog-section.md
-          echo "<!-- END BLOGS -->" >> blog-section.md
+          # Extract content before START marker
+          awk '/<!-- START BLOGS -->/{exit} {print}' README.md > README_tmp.md
 
-      - name: Replace in Portfolio README
-        run: |
-          awk '/<!-- START BLOGS -->/{flag=1; print; system("cat blog-section.md"); next} /<!-- END BLOGS -->/{flag=0; next} !flag' README.md > README_tmp.md
+          # Insert START marker, new blog content, END marker
+          echo '<!-- START BLOGS -->' >> README_tmp.md
+          cat blog-readme.md >> README_tmp.md
+          echo '<!-- END BLOGS -->' >> README_tmp.md
+
+          # Extract content after END marker (skip until END found)
+          awk '/<!-- END BLOGS -->/{found=1; next} found' README.md >> README_tmp.md
+
+          # Replace the README
           mv README_tmp.md README.md
 
-      - name: Commit & Push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}"
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Auto-sync blog section from avi-tech-blogs"
-          git push
+      - name: Commit & Push if README changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🔄 Auto-sync blog section from avi-tech-blogs"
+          file_pattern: README.md
