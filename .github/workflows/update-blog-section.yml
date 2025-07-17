@@ -1,0 +1,40 @@
+name: Sync Blog Section
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # every hour (change if needed)
+  workflow_dispatch:      # manual trigger
+  push:
+    paths:
+      - ".github/workflows/update-blog-section.yml"
+
+jobs:
+  sync-blog-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Portfolio Repo
+        uses: actions/checkout@v3
+
+      - name: Fetch Blog README
+        run: |
+          curl -s https://raw.githubusercontent.com/Avinashgurugubelli/avi-tech-blogs/main/readme.md -o blog-readme.md
+
+      - name: Extract Blog Section
+        run: |
+          echo "<!-- START BLOGS -->" > blog-section.md
+          cat blog-readme.md >> blog-section.md
+          echo "<!-- END BLOGS -->" >> blog-section.md
+
+      - name: Replace in Portfolio README
+        run: |
+          awk '/<!-- START BLOGS -->/{flag=1; print; system("cat blog-section.md"); next} /<!-- END BLOGS -->/{flag=0; next} !flag' README.md > README_tmp.md
+          mv README_tmp.md README.md
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Auto-sync blog section from avi-tech-blogs"
+          git push
