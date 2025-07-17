@@ -112,6 +112,18 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 
 ## ✍️ Latest Blog Posts
 
+## Object-Oriented Programming
+
+- [Introduction to Object-Oriented Programming (OOP)](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/oops/01-introduction.md)
+- [Encapsulation and Abstraction](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/oops/02-encapsulation-and-abstraction.md)
+- [Inheritance in OOP: When to Use and When to Avoid](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/oops/03-inheritance.md)
+- [Polymorphism in Object-Oriented Programming](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/oops/04-polymorphism.md)
+- [Abstract Class vs Interface in OOPS (With Java Examples)](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/oops/05-abstractClass-and-interface.md)
+- [Class Diagrams](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/oops/06-class-diagrams.md)
+- [Class Relationships in Object-Oriented Programming](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/oops/07-class-relationships-in-oops.md)
+- [Multiplicity](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/oops/08-multiplicity.md)
+
+
 ## SOLID Principles
 
 - [Introduction to SOLID Principles in OOP](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/solid-principles/01-introduction.md)
@@ -174,19 +186,6 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 - [Common Concurrency Issues in Database Transactions](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/07-transactions/03-concurrency-issues.md)
 - [Serializability in Databases](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/07-transactions/04-serializability.md)
 - [Pessimistic vs Optimistic Concurrency Control](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/07-transactions/05-pessimistic-optimistic-cc.md)
-
-
-
-## Object-Oriented Programming
-
-- [Introduction to Object-Oriented Programming (OOP)](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/oops/01-introduction.md)
-- [Encapsulation and Abstraction](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/oops/02-encapsulation-and-abstraction.md)
-- [Inheritance in OOP: When to Use and When to Avoid](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/oops/03-inheritance.md)
-- [Polymorphism in Object-Oriented Programming](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/oops/04-polymorphism.md)
-- [Abstract Class vs Interface in OOPS (With Java Examples)](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/oops/05-abstractClass-and-interface.md)
-- [Class Diagrams](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/oops/06-class-diagrams.md)
-- [Class Relationships in Object-Oriented Programming](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/oops/07-class-relationships-in-oops.md)
-- [Multiplicity](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/oops/08-multiplicity.md)
 
 <!-- END BLOGS -->
 
