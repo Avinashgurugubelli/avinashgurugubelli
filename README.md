@@ -208,6 +208,12 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 - [Truth, Trust, and Correctness in Distributed Systems](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/08-distributed-systems-troubles/03-truth-and-trust-in-ds.md)
 - [Designing Data-Intensive Applications](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/08-distributed-systems-troubles/04-failure-detection.md)
 
+
+### Consistency and Consensus
+
+- [Consistency and Consensus](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/09-consistency-and-consensus/01-cc-intro.md)
+- [Linearizability in Distributed Systems](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/09-consistency-and-consensus/02-linearizability.md)
+
 <!-- END BLOGS -->
 
 ---
