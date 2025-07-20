@@ -199,6 +199,7 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 - [Common Concurrency Issues in Database Transactions](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/07-transactions/03-concurrency-issues.md)
 - [Serializability in Databases](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/07-transactions/04-serializability.md)
 - [Pessimistic vs Optimistic Concurrency Control](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/07-transactions/05-pessimistic-optimistic-cc.md)
+- [06-transactions-in-distributed-context.md](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/07-transactions/06-transactions-in-distributed-context.md)
 
 
 ### The Troubles of Distributed Systems
@@ -213,6 +214,7 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 
 - [Consistency and Consensus](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/09-consistency-and-consensus/01-cc-intro.md)
 - [Linearizability in Distributed Systems](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/09-consistency-and-consensus/02-linearizability.md)
+- [Linearizability vs. Serializability: What Every Developer Should Know](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/09-consistency-and-consensus/03-linearization-vs-serialization.md)
 
 <!-- END BLOGS -->
 
