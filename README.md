@@ -160,6 +160,7 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 - [Distributed Consistency Models: Tradeoffs, Use Cases, and Suitable Databases](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/01-general/ds-consistancy-tradeoffs.md)
 - [Predicate Locks vs Index Range Locks — Comparison & Use Cases](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/01-general/predicate-and-index-range-locks.md)
 - [Read Committed Isolation Level: Implementation Details](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/01-general/read-commit-isolation.md)
+- [two-phase-commit.md](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/01-general/two-phase-commit.md)
 - [VoltDB: High-Performance In-Memory Distributed SQL Database](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/01-general/vold-db.md)
 
 
@@ -219,6 +220,7 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 - [Linearizability vs. Serializability: What Every Developer Should Know](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/09-consistency-and-consensus/03-linearization-vs-serialization.md)
 - [04-ordering-guarantees.md](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/09-consistency-and-consensus/04-ordering-guarantees.md)
 - [05-linearizable-storage-tob.md](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/09-consistency-and-consensus/05-linearizable-storage-tob.md)
+- [06-distributed-transactions-and-consensus.md](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/09-consistency-and-consensus/06-distributed-transactions-and-consensus.md)
 
 <!-- END BLOGS -->
 
