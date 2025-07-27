@@ -150,6 +150,11 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 ## Design Patterns
 
 
+### Design Patterns
+
+- [Design Patterns in Object-Oriented Programming — A Complete Guide](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/design-patterns/01-intro/design-patterns-intro.md)
+
+
 ### Behavioral Design Patterns
 
 - [Chain of Responsibility Design Pattern](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/design-patterns/behavioral/chain-of-responsibility-pattern.md)
@@ -169,11 +174,6 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 - [Factory Design Pattern](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/design-patterns/creational/factory-pattern.md)
 - [Prototype Design Pattern](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/design-patterns/creational/prototype-pattern.md)
 - [Singleton Design Pattern — One Instance to Rule Them All](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/design-patterns/creational/singleton-pattern.md)
-
-- [Design Patterns in Object-Oriented Programming — A Complete Guide](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/design-patterns/design-patterns-intro.md)
-
-### resources
-
 
 
 ### Structural Design Patterns
