@@ -156,7 +156,7 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 - [🧬 How MVCC Tracks Row Versions Internally](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/01-general/01-mvcc.md)
 - [Sample Query Comparison: SQL, CQL (Cypher), SPARQL](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/01-general/02-0-graph-query-examples.md)
 - [Horizontal Scaling Practice Guide](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/01-general/02-1-horizontal-scaling-practice.md)
-- [db-ordering-mechanisms.md](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/01-general/db-ordering-mechanisms.md)
+- [Do Databases Like MySQL, PostgreSQL, MongoDB Choose These Ordering Mechanisms?](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/01-general/db-ordering-mechanisms.md)
 - [Distributed Consistency Models: Tradeoffs, Use Cases, and Suitable Databases](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/01-general/ds-consistancy-tradeoffs.md)
 - [Epochs in Raft](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/01-general/epochs-in-distributed-consensus.md)
 - [Understanding Idempotency in System Design](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/01-general/idempotency.md)
@@ -229,6 +229,10 @@ I am a Full Stack Developer with comprehensive experience in both frontend and b
 ### Batch Processing
 
 - [Join Strategies in MapReduce](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/10-batch-processing/01-batch-processing.md)
+- [What Happens After Batch Processing? Understanding the Output of MapReduce Workflows](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/10-batch-processing/02-batch-workflows-output.md)
+- [Comparing Hadoop to Distributed Databases](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/10-batch-processing/03-comparing-hadoop-to-mpp.md)
+- [Beyond MapReduce: Efficient Data Processing with Modern Engines](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/10-batch-processing/04-beyond-map-reduce.md)
+- [Graphs and Iterative Batch Processing](https://github.com/Avinashgurugubelli/avi-tech-blogs/blob/main/src/blogs/system-design/10-batch-processing/05-graphs-and-iterative-processing.md)
 
 <!-- END BLOGS -->
 
